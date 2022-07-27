@@ -6,7 +6,7 @@
 • Studying Computer Science - UNICAP, 5° Periodo 👨‍💻   
 </p>
 <p>
-• Working on OperaLabs as trainee 🏙
+• Working at OperaLabs as trainee 🏙
 </p>
 <p> 
 • I'm from Recife, Pernambuco, Brasil 🌴
