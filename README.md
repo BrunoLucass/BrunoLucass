@@ -3,7 +3,7 @@
 <hr>
 <br>
 <p>
-• Studying Computer Science - UNICAP, 5° Periodo 👨‍💻   
+• Studying Computer Science - UNICAP, 6° Periodo 👨‍💻   
 </p>
 <p>
 • Working at OperaLabs as trainee 🏙
