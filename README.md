@@ -63,7 +63,7 @@
 
 <hr>
 
-<strong><h3>My SO:</h3></strong> 
+<strong><h3>Tools:</h3></strong> 
 <img align="center" alt="bruno-windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <img align="center" alt="bruno-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
