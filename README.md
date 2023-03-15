@@ -70,23 +70,27 @@
 <hr> 
 
 <div align="center">
+  <strong><h3>🏆 Meus troféus no Github 🏆</h3></strong> 
   <a href="https://github.com/BrunoLucass">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoLucass&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLucass&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=BrunoLucass&theme=onedark&no-frame=true&no-bg=false&margin-w=4">
+  </a>
 </div>
+
+<hr>  
+
+<a href="https://github.com/BrunoLucass">
+<div style="display: inline_block" align="center">  
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoLucass&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoLucass&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLucass&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"/>
+</a>
+
+![Snake animation](https://github.com/BrunoLucass/BrunoLucass/blob/output/github-contribution-grid-snake.svg)
+
   
 
    <hr>
   
-  <div align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoLucass&theme=solarized_dark"/>
-</div>
-  
-<div align="center">
-  <strong><h3>🏆 Meus troféus no Github 🏆</h3></strong> 
-  <a href="https://github.com/davimateus1">
-    <img src="https://github-profile-trophy.vercel.app/?username=BrunoLucass&theme=onedark&no-frame=true&no-bg=false&margin-w=4">
-  </a>
-</div>
-  
+  ![Bruno's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BrunoLucass&theme=react-dark)
 
+  
