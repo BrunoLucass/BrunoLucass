@@ -47,6 +47,7 @@
 <img align="center" alt="bruno-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="bruno-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 <img align="center" alt="bruno-handlebars" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg">
+ <img align="center" alt="chakra-ui" height="30" width="30" src="https://img.icons8.com/color/48/000000/chakra-ui.png" />
 </div>
 
 <hr> 
@@ -56,15 +57,14 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="bruno-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"> 
 <img align="center" alt="bruno-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+<img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 <hr>
 
 <strong><h3>My SO:</h3></strong> 
 <img align="center" alt="bruno-windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-
-
-and learning about Linux
 <img align="center" alt="bruno-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 <hr> 
@@ -81,3 +81,12 @@ and learning about Linux
   <div align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoLucass&theme=solarized_dark"/>
 </div>
+  
+<div align="center">
+  <strong><h3>🏆 Meus troféus no Github 🏆</h3></strong> 
+  <a href="https://github.com/davimateus1">
+    <img src="https://github-profile-trophy.vercel.app/?username=BrunoLucass&theme=onedark&no-frame=true&no-bg=false&margin-w=4">
+  </a>
+</div>
+  
+
