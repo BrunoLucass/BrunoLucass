@@ -47,7 +47,8 @@
 <img align="center" alt="bruno-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="bruno-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 <img align="center" alt="bruno-handlebars" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg">
- <img align="center" alt="chakra-ui" height="30" width="30" src="https://img.icons8.com/color/48/000000/chakra-ui.png" />
+<img align="center" alt="chakra-ui" height="30" width="30" src="https://img.icons8.com/color/48/000000/chakra-ui.png" />
+<img align="center" alt="bruno-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"> 
 </div>
 
 <hr> 
@@ -55,10 +56,11 @@
 <strong><h3> 🛠 In progress:</h3></strong> 
 
 <div style="display: inline_block"><br>
-<img align="center" alt="bruno-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"> 
-<img align="center" alt="bruno-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+
+<img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" />
 </div>
 
 <hr>
