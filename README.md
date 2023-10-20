@@ -9,10 +9,10 @@
 <hr>
 <br>
 <p>
-• Studying Computer Science - UNICAP, 7° Periodo 👨‍💻   
+• Studying Computer Science - UNICAP, 8° Periodo 👨‍💻   
 </p>
 <p>
-• Working at OperaLabs as trainee 🏙
+• Working at Mobiis as Dev Front-End Jr 🏙
 </p>
 <p> 
 • I'm from Recife, Pernambuco, Brasil 🌴
