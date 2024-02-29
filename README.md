@@ -9,7 +9,7 @@
 <hr>
 <br>
 <p>
-• Studying Computer Science - UNICAP, 8° Periodo 👨‍💻   
+• Bachelor of Computer Science - UNICAP   
 </p>
 <p>
 • Working at Mobiis as Dev Front-End Jr 🏙
@@ -17,9 +17,6 @@
 <p> 
 • I'm from Recife, Pernambuco, Brasil 🌴
 </p> 
-<p>
-• Fun Fact about me: I like to play valorant and learn new stuff 🎮
-</p>
 </div>
 
 <hr>  
