@@ -12,7 +12,7 @@
 • Bachelor of Computer Science - UNICAP   
 </p>
 <p>
-• Working at Mobiis as Dev Front-End Jr 🏙
+• Dev Front-End Jr 🏙
 </p>
 <p> 
 • I'm from Recife, Pernambuco, Brasil 🌴
