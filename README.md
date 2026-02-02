@@ -12,7 +12,7 @@
 • Bachelor of Computer Science - UNICAP   
 </p>
 <p>
-• Dev Front-End Jr 🏙
+• Dev FullStack
 </p>
 <p> 
 • I'm from Recife, Pernambuco, Brasil 🌴
