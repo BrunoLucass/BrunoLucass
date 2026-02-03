@@ -15,7 +15,7 @@
 • Dev FullStack
 </p>
 <p> 
-• I'm from Recife, Pernambuco, Brasil 🌴
+•  Recife, Pernambuco
 </p> 
 </div>
 
