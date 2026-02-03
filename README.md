@@ -9,7 +9,7 @@
 <hr>
 <br>
 <p>
-• Bachelor of Computer Science - UNICAP   
+• Computer Scientist   
 </p>
 <p>
 • Dev FullStack
